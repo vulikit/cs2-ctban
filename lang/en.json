@@ -1,0 +1,21 @@
+{
+  "WrongUsage": "{red}Incorrect usage! {white}Use: !ctban <player> <duration(minutes)>",
+  "EnterNumber": "{red}Please enter a valid number",
+  "NumberCanNot": "{red}Duration cannot be zero or negative. Leave blank for a permanent ban",
+  "SpecifyOnePerson": "{red}Please target exactly one player",
+  "PlayerIsntBannedFromCT": "{red}This player is not banned from CT!",
+
+  "UnbannedBroadcast": "{green}{0}'s {white}CT ban was removed by {green}{1}!",
+  "UnbannedSuccesfully": "{green}{0}'s {white}CT ban was successfully removed!",
+  "YouAreBannedFromCT": "{red}You are banned from CT! {0}",
+  "BannedFromCTBroadcast": "{green}{0} {white}was banned from CT by {green}{1} {white}for {green}{2}!",
+  "YouCannotJoinCT": "{red}You are banned from CT and cannot join!",
+
+  "Unlimited": "Permanent",
+  "Time": "Duration",
+  "Minutes": "minutes",
+
+  "NoPerson": "{red}Player not found",
+  "MoreThanOnePerson": "{red}Multiple players found",
+  "NoPermission": "{red}You do not have permission."
+}

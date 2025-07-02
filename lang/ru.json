@@ -1,0 +1,21 @@
+﻿{
+  "WrongUsage": "{red}Неправильное использование! {white}Используйте: !ctban <игрок> <длительность(минуты)>",
+  "EnterNumber": "{red}Пожалуйста, введите корректное число",
+  "NumberCanNot": "{red}Длительность не может быть нулевой или отрицательной. Оставьте пустым для бессрочного бана",
+  "SpecifyOnePerson": "{red}Укажите только одного игрока",
+  "PlayerIsntBannedFromCT": "{red}Этот игрок не забанен в CT!",
+
+  "UnbannedBroadcast": "{green}{0} {white}был разбанен в CT администратором {green}{1}!",
+  "UnbannedSuccesfully": "{green}{0} {white}успешно разбанен в CT!",
+  "YouAreBannedFromCT": "{red}Вы забанены в CT! {0}",
+  "BannedFromCTBroadcast": "{green}{0} {white}получил бан в CT от {green}{1} {white}на {green}{2}!",
+  "YouCannotJoinCT": "{red}Вы забанены в CT и не можете присоединиться!",
+
+  "Unlimited": "Бессрочный",
+  "Time": "Длительность",
+  "Minutes": "минут",
+
+  "NoPerson": "{red}Игрок не найден",
+  "MoreThanOnePerson": "{red}Найдено несколько игроков",
+  "NoPermission": "{red}У вас нет прав."
+}

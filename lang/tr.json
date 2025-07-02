@@ -1,0 +1,21 @@
+﻿{
+  "WrongUsage": "{red}Lütfen doğru kullanın {white}!ctban <kişi> <sure(dk)>",
+  "EnterNumber": "{red}Lütfen bir sayı girin",
+  "NumberCanNot": "{red}Süre sıfır veya negatif olamaz, sınırsız ban için süre belirtmeyin",
+  "SpecifyOnePerson": "{red}Sadece bir kişi belirtin",
+  "PlayerIsntBannedFromCT": "{red}Bu oyuncu CT'den banlı değil!",
+
+  "UnbannedBroadcast": "{green}{0} {white}adlı kişinin CT banı {green}{1} {white}adlı yetkili tarafından kaldırıldı!",
+  "UnbannedSuccesfully": "{green}{0} {white}CT banı başarıyla kaldırıldı!",
+  "YouAreBannedFromCT": "{red}CT'den banlandın! {0}",
+  "BannedFromCTBroadcast": "{green}{0} {white}adlı kişiye {green}{1} {white}adlı yetkili tarafından {green}{2} {white}banlandı!",
+  "YouCannotJoinCT": "{red}CT'den banlısın, CT'ye katılamazsın!",
+
+  "Unlimited": "Sınırsız",
+  "Time": "Süre",
+  "Minutes": "dakika",
+
+  "NoPerson": "{red}Kişi bulunamadı",
+  "MoreThanOnePerson": "{red}Birden fazla kişi bulundu",
+  "NoPermission": "{red}Yetkiniz bulunmuyor."
+}
